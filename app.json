@@ -16,11 +16,11 @@
   "env": {
     "API_ID": {
       "description": "Get your telegram API ID from https://my.telegram.org",
-      "value": "25567551"
+      "value": "20463500"
     },
     "API_HASH": {
       "description": "Get your telegram API HASH from https://my.telegram.org",
-      "value": "45993062e6b160a7a360d648ecc8e43a"
+      "value": "5db9bc6439f7b43daa75689edf65b431"
     },
     "BOT_TOKEN": {
       "description": "Get from BotFather",
