@@ -30,7 +30,7 @@ import io
 #import pycurl
 
 bot = Client(
-     "bot",="6969961194:AAHg6UtYLwMavm0kUpLHJfOUDXmbRjbG8jQ",
+     bot_token = "6969961194:AAHg6UtYLwMavm0kUpLHJfOUDXmbRjbG8jQ",
       api_id=api_id=23621134,
       api_hash=api_hash, "3e49039179441fb424d90680ecffe365")
      AUTH_USERS=6960520819
