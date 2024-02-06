@@ -33,7 +33,7 @@ bot = Client(
      bot_token = "5981404906:AAEVQc7gl_cu9ar24F2gsRZkzXRjfsSxhQ4",
       api_id=25747764,
       api_hash= "0668ea2b549fee61548f3392a0021aff")
-     AUTH_USERS= (6960520819)
+     
 
 
 @bot.on_message(filters.command(["start"]) & (filters.chat(sudo_group)))
